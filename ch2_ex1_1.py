@@ -3,7 +3,7 @@ name,age = input("Enter the name and age:-").split(",")
 print(name)
 print(age)
 # String Formatting
-name = "Shivam"
+name = "Deepak"
 age = 19
 print("Your name is "+name+" and Your age is "+str(age))#Python2
 
